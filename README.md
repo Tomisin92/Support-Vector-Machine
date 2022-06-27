@@ -1,2 +1,2 @@
 # Support-Vector-Machine
-Gender Classification based and Academic Performance using SVM
+Gender Classification based on Academic Performance using SVM
